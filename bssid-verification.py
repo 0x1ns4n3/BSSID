@@ -2,7 +2,7 @@ from openpyxl import Workbook, load_workbook
 
 def bssid_does_exist(bssid) -> bool:
     # Load the workbook
-    wb = load_workbook(filename="./wifi-05-28-2022.xlsx")
+    wb = load_workbook(filename="./file.xlsx")
 
     # Use this sheet!!
     ws = wb['simple']
