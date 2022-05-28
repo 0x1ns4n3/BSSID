@@ -1,2 +1,4 @@
-# BSSID
-To determine exact location using bssid and gps
+## Contributors :
+
+Ayushman Chaturvedi : @Ayush-247
+Siddhak Dak : @siddhakrajdak
