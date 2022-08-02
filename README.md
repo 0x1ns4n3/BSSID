@@ -1,8 +1,3 @@
-## Contributors :
+Got 2nd position with this project 
 
-Ayushman Chaturvedi : @Ayush-247
-
-
-
-
-Siddhak Dak : @siddhakrajdak
+There were around 50 teams 
